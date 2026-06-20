@@ -99,4 +99,4 @@ java-interview-guide-hinglish/
 
 ```bash
 # Clone karo
-git clone https://github.com/YOUR_USERNAME/java-interview-guide-hinglish.git
+git clone https://github.com/shyam-singh-dev/java-interview-guide-hinglish.git
